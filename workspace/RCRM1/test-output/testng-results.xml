@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63672" started-at="2018-01-08T09:00:40Z" finished-at="2018-01-08T09:01:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63672" started-at="2018-01-08T09:00:40Z" finished-at="2018-01-08T09:01:44Z">
+      <class name="RrcmPack.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="beforeTest" is-config="true" duration-ms="40414" started-at="2018-01-08T14:30:40Z" finished-at="2018-01-08T14:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="f" duration-ms="15083" started-at="2018-01-08T14:31:21Z" finished-at="2018-01-08T14:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="secondTest" duration-ms="2857" started-at="2018-01-08T14:31:36Z" finished-at="2018-01-08T14:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="afterTest" is-config="true" duration-ms="4880" started-at="2018-01-08T14:31:39Z" finished-at="2018-01-08T14:31:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- RrcmPack.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
