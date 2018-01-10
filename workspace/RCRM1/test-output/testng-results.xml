@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="63672" started-at="2018-01-08T09:00:40Z" finished-at="2018-01-08T09:01:44Z">
+  <suite name="Default suite" duration-ms="23376" started-at="2018-01-10T11:00:23Z" finished-at="2018-01-10T11:00:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="63672" started-at="2018-01-08T09:00:40Z" finished-at="2018-01-08T09:01:44Z">
+    <test name="Default test" duration-ms="23376" started-at="2018-01-10T11:00:23Z" finished-at="2018-01-10T11:00:46Z">
       <class name="RrcmPack.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="beforeTest" is-config="true" duration-ms="40414" started-at="2018-01-08T14:30:40Z" finished-at="2018-01-08T14:31:20Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:RrcmPack.NewTest@19eb89]" name="beforeTest" is-config="true" duration-ms="4259" started-at="2018-01-10T16:30:23Z" finished-at="2018-01-10T16:30:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="f" duration-ms="15083" started-at="2018-01-08T14:31:21Z" finished-at="2018-01-08T14:31:36Z">
+        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:RrcmPack.NewTest@19eb89]" name="verifyPageTitle" duration-ms="9456" started-at="2018-01-10T16:30:27Z" finished-at="2018-01-10T16:30:36Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="secondTest()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="secondTest" duration-ms="2857" started-at="2018-01-08T14:31:36Z" finished-at="2018-01-08T14:31:39Z">
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="userLogIn()[pri:2, instance:RrcmPack.NewTest@19eb89]" name="userLogIn" duration-ms="9617" started-at="2018-01-10T16:30:37Z" finished-at="2018-01-10T16:30:46Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- secondTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:RrcmPack.NewTest@a00a4b]" name="afterTest" is-config="true" duration-ms="4880" started-at="2018-01-08T14:31:39Z" finished-at="2018-01-08T14:31:44Z">
+        </test-method> <!-- userLogIn -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:RrcmPack.NewTest@19eb89]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-01-10T16:30:46Z" finished-at="2018-01-10T16:30:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

@@ -6,7 +6,8 @@
       <class name="RrcmPack.NewTest">
         <methods>
           <include name="beforeTest"/>
-          <include name="f"/>
+          <include name="afterTest"/>
+          <include name="verifyPageTitle"/>
         </methods>
       </class> <!-- RrcmPack.NewTest -->
     </classes>
